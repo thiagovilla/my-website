@@ -36,7 +36,7 @@ npm run develop
 
 ## Changelog
 
-See [CHANGELOG.md](changelog.md).
+See [CHANGELOG.md](CHANGELOG.md).
 
 ## Roadmap
 
