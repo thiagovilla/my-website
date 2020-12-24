@@ -1,48 +1,59 @@
-<p align="center">
-  <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
-  </a>
-</p>
-<h1 align="center">
-  Gatsby minimal starter
-</h1>
+# Thiago Villa's website
 
-## 🚀 Quick start
+#todo short desc
 
-1.  **Create a Gatsby site.**
+## Install
 
-    Use the Gatsby CLI to create a new site, specifying the minimal starter.
+You need [Node v10+](https://nodejs.org/en/download/) and [Gatsby](https://www.gatsbyjs.com/get-started/).
 
-    ```shell
-    # create a new Gatsby site using the minimal starter
-    npm init gatsby
-    ```
+```shell
+git clone https://github.com/thiagovilla/thiagovilla.github.io.git
+cd thiagovilla.github.io
+npm install
+npm run develop
+```
 
-2.  **Start developing.**
+## Goal
 
-    Navigate into your new site’s directory and start it up.
+#todo
 
-    ```shell
-    cd my-gatsby-site/
-    npm run develop
-    ```
+## Skills
 
-3.  **Open the code and start customizing!**
+#todo
 
-    Your site is now running at http://localhost:8000!
+## Stack
 
-    Edit `src/pages/index.js` to see your site update in real-time!
+- Front-end framework: [GatsbyJS](https://gatsbyjs.com)
+- UI framework: [React](https://reactjs.org) (part of Gatsby itself)
+- Styling system: [Emotion](https://emotion.sh)
+- Design system: [Tachyons](https://tachyons.io), if it "works" with Emotion
+- Back-end (CMS): [DatoCMS](https://datocms.com)
+- Deploy plataform: [GitHub Pages](https://pages.github.com)
 
-4.  **Learn more**
+## Features
 
-    - [Documentation](https://www.gatsbyjs.com/docs/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
+#todo
 
-    - [Tutorials](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
+## Changelog
 
-    - [Guides](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
+See [CHANGELOG.md](changelog.md).
 
-    - [API Reference](https://www.gatsbyjs.com/docs/api-reference/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
+## Roadmap
 
-    - [Plugin Library](https://www.gatsbyjs.com/plugins?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
+- 🛠️ Connect DatoCMS
+- 🛠️ Add Disqus comments
+- 📅 (2021 Q1) Twitter feed on footer
+- 📅 (2021 Q1) LinkedIn feed on footer
+- 💡 Combine Twitter and LinkedIn feeds
 
-    - [Cheat Sheet](https://www.gatsbyjs.com/docs/cheat-sheet/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
+Legend: 🛠️ working on it, 📅 scheduled, 🤔 considering, 💡 idea
+
+## Creative process
+
+See [creative-process.md](creative-process.md).
+
+## About me
+
+#todo
+
+#todo add legal, credits, acknowledgments
