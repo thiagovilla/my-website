@@ -19,6 +19,7 @@
   "dependencies": {
     "gatsby": "^2.26.1",
     "gatsby-plugin-google-gtag": "^2.5.0",
+    "gatsby-source-datocms": "^2.5.7",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },
