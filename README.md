@@ -34,6 +34,11 @@ npm run develop
 
 #todo
 
+## To do
+
+- Design and code home page
+- Design and code post page
+
 ## Changelog
 
 See [CHANGELOG.md](CHANGELOG.md).
@@ -44,7 +49,9 @@ See [CHANGELOG.md](CHANGELOG.md).
 - 🛠️ Add Disqus comments
 - 📅 (2021 Q1) Twitter feed on footer
 - 📅 (2021 Q1) LinkedIn feed on footer
-- 💡 Combine Twitter and LinkedIn feeds
+- 💡 Combine Twitter, LinkedIn, and GitHub feeds
+- 💡 GitHub activity feed on footer
+- 💡 Add "Was this helpful?" to posts
 
 Legend: 🛠️ working on it, 📅 scheduled, 🤔 considering, 💡 idea
 
