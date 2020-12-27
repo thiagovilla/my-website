@@ -49,15 +49,17 @@ See [CHANGELOG.md](CHANGELOG.md).
 - 🛠️ Add Disqus comments
 - 📅 (2021 Q1) Twitter feed on footer
 - 📅 (2021 Q1) LinkedIn feed on footer
+- 🤔 Add book, video, online course summaries
 - 💡 Combine Twitter, LinkedIn, and GitHub feeds
 - 💡 GitHub activity feed on footer
 - 💡 Add "Was this helpful?" to posts
+- 💡 Library of curated UI patterns (epic 🧙‍♂️)
 
 Legend: 🛠️ working on it, 📅 scheduled, 🤔 considering, 💡 idea
 
 ## Creative process
 
-See [creative-process.md](creative-process.md).
+See [CREATIVE_PROCESS.md](CREATIVE_PROCESS.md).
 
 ## About me
 
